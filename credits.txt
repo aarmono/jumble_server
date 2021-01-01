@@ -1,0 +1,2 @@
+Dictionary files downloaded from the following location:
+https://github.com/dwyl/english-words
